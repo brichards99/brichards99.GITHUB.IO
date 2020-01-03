@@ -1,7 +1,7 @@
 baseURL = "https://www.brichards.net/"
 languageCode            = "en-us"
 title = "Brian Richards and his stuff"
-theme = "basics-master"
+theme = "minimo"
 paginate = 5
 enableEmoji = true
 

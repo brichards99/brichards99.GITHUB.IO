@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>servicenow, development on Dude</title>
+    <link>https://www.brichards.net/tags/servicenow-development/</link>
+    <description>Recent content in servicenow, development on Dude</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 13 Jan 2019 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="https://www.brichards.net/tags/servicenow-development/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>ServiceNow Scoped Applications</title>
+      <link>https://www.brichards.net/sn-scoped-apps/</link>
+      <pubDate>Sun, 13 Jan 2019 00:00:00 -0400</pubDate>
+      
+      <guid>https://www.brichards.net/sn-scoped-apps/</guid>
+      <description>#ServiceNow application development notes#
+I am hesitant to characterize this as a &amp;lsquo;best practices&amp;rsquo; post or a &amp;lsquo;developer&#39;s guide&amp;rsquo; of any kind, because what I have come to believe after making use of application scope in ServiceNow for the last couple of years is that it is ultimately just another feature of the product. And as such there are many &amp;lsquo;right&amp;rsquo; ways of taking advantage of application scopes for a project.</description>
+    </item>
+    
+  </channel>
+</rss>

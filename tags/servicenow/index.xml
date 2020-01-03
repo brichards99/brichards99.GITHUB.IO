@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>servicenow on Dude</title>
+    <link>https://www.brichards.net/tags/servicenow/</link>
+    <description>Recent content in servicenow on Dude</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 23 Jul 2019 10:40:17 -0400</lastBuildDate>
+    
+	<atom:link href="https://www.brichards.net/tags/servicenow/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Yay, me. ServiceNow Certified System Administrator once again</title>
+      <link>https://www.brichards.net/servicenow-sysadmin-cert/</link>
+      <pubDate>Tue, 23 Jul 2019 10:40:17 -0400</pubDate>
+      
+      <guid>https://www.brichards.net/servicenow-sysadmin-cert/</guid>
+      <description>So earlier today I had a little bit of time to kill because of an instance upgrade, so I decided to retake my ServiceNow Certified System Administrator certification. Which is kind of a mouthful, but it&#39;s just not that important to enough people for there to be a handy acronym like CCNA or SAT.
+But it&#39;s important to me, and I passed. Woo!
+For people who work on the ServiceNow platform the system administrator certification is the most common shingle to seek, and it demonstrates that I know enough about where all the levers and gears are in ServiceNow to be permitted admin access without everyone else in the organization sweating bullets.</description>
+    </item>
+    
+  </channel>
+</rss>

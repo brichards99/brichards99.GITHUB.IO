@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>web on Dude</title>
+    <link>https://www.brichards.net/tags/web/</link>
+    <description>Recent content in web on Dude</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Jul 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.brichards.net/tags/web/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>the one about why I made this blog in Hugo</title>
+      <link>https://www.brichards.net/whytheblog/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.brichards.net/whytheblog/</guid>
+      <description>It seems that every blog (online diary, journal, self-loving website, etc) that I run across that has been redesigned in Hugo has a post early on about why it was redesigned in Hugo. This seems like a weird thing to do in the wide world of the web, since people are constantly changing the underlying technologies of their website without wasting a lot of time talking about it, but in my case Ima going to do that thing because there is a point to be made about why I have taken the time to do something other than Wordpress.</description>
+    </item>
+    
+  </channel>
+</rss>

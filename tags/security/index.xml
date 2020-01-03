@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>security on Dude</title>
+    <link>https://www.brichards.net/tags/security/</link>
+    <description>Recent content in security on Dude</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 05 Feb 2018 15:13:07 -0500</lastBuildDate>
+    
+	<atom:link href="https://www.brichards.net/tags/security/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Bruce Scheier&#39;s Cryptogram</title>
+      <link>https://www.brichards.net/cryptogram/</link>
+      <pubDate>Mon, 05 Feb 2018 15:13:07 -0500</pubDate>
+      
+      <guid>https://www.brichards.net/cryptogram/</guid>
+      <description>Those who have had me for class before have seen this post before.
+An important part of every IT professional’s job is continuing education. For the most part we see this as attending conferences and signing up for classes related to new technologies, but one of the simplest (and cheapest) things is to simply stay informed. For anyone in this field, but infosec professionals in particular, Bruce Schneier’s Crypto-gram newsletter is an invaluable source of information about current events.</description>
+    </item>
+    
+  </channel>
+</rss>

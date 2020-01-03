@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Brian Richards and his stuff</title>
+    <link>https://www.brichards.net/tags/</link>
+    <description>Recent content in Tags on Brian Richards and his stuff</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Jul 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.brichards.net/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Blogging</title>
+      <link>https://www.brichards.net/tags/blogging/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.brichards.net/tags/blogging/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Security</title>
+      <link>https://www.brichards.net/tags/security/</link>
+      <pubDate>Mon, 05 Feb 2018 15:13:07 -0500</pubDate>
+      
+      <guid>https://www.brichards.net/tags/security/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Student</title>
+      <link>https://www.brichards.net/tags/student/</link>
+      <pubDate>Fri, 03 Aug 2018 15:13:07 -0500</pubDate>
+      
+      <guid>https://www.brichards.net/tags/student/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Web</title>
+      <link>https://www.brichards.net/tags/web/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.brichards.net/tags/web/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Writing</title>
+      <link>https://www.brichards.net/tags/writing/</link>
+      <pubDate>Fri, 03 Aug 2018 15:13:07 -0500</pubDate>
+      
+      <guid>https://www.brichards.net/tags/writing/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

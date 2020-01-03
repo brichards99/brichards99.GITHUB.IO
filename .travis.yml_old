@@ -1,0 +1,22 @@
+language: go
+
+go:
+  - 1.7.1
+
+install:
+- go get -v https://github.com/gohugoio/hugo
+- pip install --user awscli
+script:
+- hugo version
+- hugo
+- make deploy
+
+
+
+branches:
+  only:
+  - master
+env:
+  global:
+  - secure: c2Kb5wAm6j561o3+X6aZVldAhj1+r5lczI4t6PcBmCglwUCE4Y1pk3zsust81aCDyzCMyQc+j+InGrX6S80SDsITc1P5yldKcwmB8ATAY58iTy4V+7L69oG+W1YYHLxaZ8g1K/1+7MHFNFf1PMWboVHABh/A2KRCtekOCGpFIhe8yjr1v9il3ZPP9sxyP3r+b20v1GflsLHy3VCSidCBuaTAAo6yPgjSNoGXB8gW1yGpVto23qOPrIGOa9AxeyBUDaiz0KIvYyMw7cvBWtIQuJjHXZAJNm3eMIcwcpjrRQnt3hjDPC/UxxptTcn5PBW7finpum62RH8BwNhHncD3vivsOXzbSEr2JrZlhPKxsZPLXZf8XnRV4i/PqfK09+bhAqjpPj/wg+dmDw0uQOPkPR1SQvM3mv2zmYVEHs8QPe+3rojU+o29em3xoxSRc6hinLs21liGt2s68Fu59ft9YZRHPZrmt08uXjrNnOnlkz4laYPLXwDQ/WYR/B/Orhce9yR0GRCI9qGz+88OqvGwNZf/wJKgasHZspMBWQhqvClFtWz2IFKXEIMTw7ayrW1npCVcmpLFVzMr4BxjXywxsp5v91Zlf/pOfSqyB832mUQfB3dUwM/ur5aV/7ynx0oEgjrBTqJ/b4dORMy5FwG+33MSz7hhTBCyUDX04MrNM2Q=
+  - secure: mn52Gq9H/cFWQhXI3iduqHaC24NvESENq7O8SqzT8evsTCnTuCmnMDgvtalmk0sgY7+pBEyKK+2ifweKzCAtoJ/GGSE7iBLyPMlHy0zEKFSZBWtWfFC2moUCE/s+zq/1Hxwi3e+o4CWCY8EzPzpVg/Ww0jsjku81l6Vs9m6qrdoPCiaDtJ9gksR6vMjSsekpcH4ufpzt5aFImsyFYJrMZsg0nfwRtz3/06cEjb9I+xEXrH8Gc1mVbdndmzWW9ZA6/m0RgK2BUOmoXfHh5edpNUg0XVzVgW1VUPvVsY8u6/phOclQPxbmX0rDQCqJ/EWdyBWjsXhVZjORTCF7xWDyOdmvKN5yvoqQ/7aYHHXnVUWOIHuJndrKm31PO+cQFJWdgWOSXGVk8veKYujTOWhTN8j5kV8Fo9ie7L5bkxgRQFPRHjkRDecqSFNEY2LKMXbvx8+ZNrX9uYqJiOINFfGVql79Ym3/OJEX5OW1AuowdRj/aD5f0k0vQAc+r0xY9S2ig9+4UKQtuuF0L8FIt1SVoBglzdvwXVFO2RurdwodLVPsKRd64TQ+YxBEjO0xTnu3PjpGz1cjDXrJWMTD0AiWOb2RdHgns9JzdjV+8gOqGLO8+G6Fx2jeeOtrnKsWHSLbRSXs0udGZ/WwxuL3BFzxpjDXlsQiVp+JqyMmq/pgsug=

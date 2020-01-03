@@ -1,12 +1,9 @@
-baseURL = "https://www.brichards.net/"
-languageCode            = "en-us"
-title = "Brian Richards and his stuff"
-theme = "cupper"
-paginate = 5
-enableEmoji = true
-
-[params]
-author = "Brian Richards"
+baseURL: https://www.brichards.net/
+languageCode: en-us
+defaultContentLanguage: en
+title: Dude
+theme: cupper
+enableGitInfo: true
 
 taxonomies:
   tag: tags
